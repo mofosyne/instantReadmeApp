@@ -87,6 +87,13 @@ here is inline `literal` codes. Must have space around it.
         Or 4 space code indent like classic markdown.
 ```
 
+# Extra
+
+Category: tools
+Source: https://github.com/mofosyne/instantReadmeApp
+Licence: https://github.com/mofosyne/instantReadmeApp/blob/master/COPYING.txt - GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+
+
 # Coding tips
 
 If you are creating layouts programmically. To avoid clashing with pregenerated IDs from XML layout when assigning view IDs, use `View.generateViewId();` (http://stackoverflow.com/questions/8460680/how-can-i-assign-an-id-to-a-view-programmatically)
