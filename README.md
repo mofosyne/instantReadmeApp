@@ -31,12 +31,14 @@ Adapting to your project:
 - Change package on top of this file to your package name.
 
 - Add to your manifest, so that you can locate it:
-          <activity
-              android:name=".ReadMe"
-              android:label="ReadMe" >
-          </activity>
+
+        <activity
+            android:name=".ReadMe"
+            android:label="ReadMe" >
+        </activity>
 
 - Add `startActivity( new Intent( this, ReadMe.class ));` to your buttons or anywhere you want to launch the readme.
+
 
 ## 3. Done!
 
