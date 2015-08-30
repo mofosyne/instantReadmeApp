@@ -2,6 +2,20 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\simone\Documents\GitHub\instantReadmeApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\simone\Documents\GitHub\instantReadmeApp\app\build\intermediates\pre-dexed\release\classes-537954fda2e1508b769c72930828e45c5f3fb0ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\simone\Documents\GitHub\instantReadmeApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\simone\Documents\GitHub\instantReadmeApp\app\build\intermediates\pre-dexed\release\classes-d406015fb85d7fc45035fcfccced256a2d3bc507.jar" />
+    </item>
+    <item
         jar="C:\Users\simone\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -14,20 +28,6 @@
         revision="22.0.1"
         sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
         <dex dex="C:\Users\simone\Documents\GitHub\instantReadmeApp\app\build\intermediates\pre-dexed\release\internal_impl-22.2.1-937f796d2f6f21e70331d38341d17085a7cb1a5a.jar" />
-    </item>
-    <item
-        jar="C:\Users\simone\Documents\GitHub\instantReadmeApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="C:\Users\simone\Documents\GitHub\instantReadmeApp\app\build\intermediates\pre-dexed\release\classes-d406015fb85d7fc45035fcfccced256a2d3bc507.jar" />
-    </item>
-    <item
-        jar="C:\Users\simone\Documents\GitHub\instantReadmeApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="C:\Users\simone\Documents\GitHub\instantReadmeApp\app\build\intermediates\pre-dexed\release\classes-537954fda2e1508b769c72930828e45c5f3fb0ef.jar" />
     </item>
 
 </items>
